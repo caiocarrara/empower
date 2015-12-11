@@ -1,4 +1,6 @@
 .DS_Store
+.sass-cache/
+
 *.gem
 *.rbc
 /.config
