@@ -22,6 +22,9 @@
   <url>
     <loc>/</loc>
   </url>
+  <url>
+    <loc>/relatos/</loc>
+  </url>
     <url>
       <loc>/jekyll/update/2015/12/11/welcome-to-jekyll/</loc>
     </url>
