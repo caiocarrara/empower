@@ -2,6 +2,9 @@
 date: "2015-12-11T14:10:02-02:00"
 tags:
   - tag: soft
+  - tag: slipsum
+  - tag: lorem
+  - tag: debs
 title: The path of the righteous man
 support_line: "You know why, David? Because of the kids. They called me Mr Glass."
 layout: post
