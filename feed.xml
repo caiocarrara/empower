@@ -3,10 +3,10 @@
   <channel>
     <title>Empower</title>
     <description></description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 11 Dec 2015 15:20:51 +0000</pubDate>
-    <lastBuildDate>Fri, 11 Dec 2015 15:20:51 +0000</lastBuildDate>
+    <link>http://caiocarrara.com.br/empower//</link>
+    <atom:link href="http://caiocarrara.com.br/empower//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 11 Dec 2015 15:23:38 +0000</pubDate>
+    <lastBuildDate>Fri, 11 Dec 2015 15:23:38 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -26,8 +26,8 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Fri, 11 Dec 2015 13:03:34 +0000</pubDate>
-        <link>/jekyll/update/2015/12/11/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">/jekyll/update/2015/12/11/welcome-to-jekyll/</guid>
+        <link>http://caiocarrara.com.br/empower//jekyll/update/2015/12/11/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://caiocarrara.com.br/empower//jekyll/update/2015/12/11/welcome-to-jekyll/</guid>
         
         
         <category>jekyll</category>
