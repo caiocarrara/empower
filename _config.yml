@@ -1,0 +1,53 @@
+# Site settings
+title:       Empower
+email:       ccarrara@thoughtworks.com
+author:      Caio Carrara
+description: ""
+baseurl:     "/empower"
+
+
+# Google analytics
+google_analytics: xxx
+
+# Optional features
+animated:           true
+show_related_posts: true
+show_post_footers:  true
+
+# Social icons
+show_social_icons: true
+github_username: ccarrara
+twitter_username: CaioWCC
+google_plus_id:
+linkedin_username:
+bitcoin_url:
+paypal_url:
+flattr_button:
+
+# Build settings
+markdown:     redcarpet
+permalink:    pretty
+paginate:     2
+asset_pipeline:
+  gzip: true
+sass:
+  style: compressed
+timezone: BR
+gems:
+  - jekyll-sitemap
+exclude:
+  - deploy
+  - Gemfile
+  - Gemfile.lock
+  - Gruntfile.js
+  - README.md
+  - bower_components
+  - node_modules
+  - package.json
+  - assets/less
+  - test
+  - Rakefile
+  - job_status.txt
+  - setup
+  - vendor
+  - node/
