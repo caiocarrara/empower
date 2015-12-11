@@ -3,7 +3,7 @@ title:       Empower
 email:       ccarrara@thoughtworks.com
 author:      Caio Carrara
 description: ""
-baseurl:     "/empower"
+baseurl:     ""
 
 
 # Google analytics
@@ -27,7 +27,6 @@ flattr_button:
 # Build settings
 markdown:     redcarpet
 permalink:    pretty
-paginate:     2
 asset_pipeline:
   gzip: true
 sass:
