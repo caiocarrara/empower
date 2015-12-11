@@ -22,4 +22,10 @@ published: true
 releated_posts: []
 
 ---
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="You think water moves fast? You should see ice. It moves like it has a mind. Like it knows it killed the world once and got a taste for murder. " height="593" src="//farm6.staticflickr.com/5827/23383569600_3b5d07dcf2_b.jpg" width="689" />
+<figcaption>You think water moves fast? You should see ice. It moves like it has a mind. Like it knows it killed the world once and got a taste for murder.&nbsp;</figcaption>
+</figure>
+</div>
+
 <p>Well, the way they make shows is, they make one show. That show&#39;s called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they&#39;re going to make more shows. Some pilots get picked and become television programs. Some don&#39;t, become nothing. She starred in one of the ones that became nothing.&nbsp;</p>
