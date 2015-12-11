@@ -5,8 +5,8 @@
     <description></description>
     <link>http://caiocarrara.com.br/empower/</link>
     <atom:link href="http://caiocarrara.com.br/empower/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 11 Dec 2015 16:54:24 +0000</pubDate>
-    <lastBuildDate>Fri, 11 Dec 2015 16:54:24 +0000</lastBuildDate>
+    <pubDate>Fri, 11 Dec 2015 17:06:38 +0000</pubDate>
+    <lastBuildDate>Fri, 11 Dec 2015 17:06:38 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -45,6 +45,12 @@
         <guid isPermaLink="true">http://caiocarrara.com.br/empower/2015/12/11/the-path-of-the-righteous-man/</guid>
         
         <category>{&quot;tag&quot;=&gt;&quot;soft&quot;}</category>
+        
+        <category>{&quot;tag&quot;=&gt;&quot;slipsum&quot;}</category>
+        
+        <category>{&quot;tag&quot;=&gt;&quot;lorem&quot;}</category>
+        
+        <category>{&quot;tag&quot;=&gt;&quot;debs&quot;}</category>
         
         
       </item>
